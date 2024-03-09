@@ -1,0 +1,14 @@
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.GeneratedMSBuildEditorConfig.editorconfig
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.AssemblyInfoInputs.cache
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.AssemblyInfo.cs
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.csproj.CoreCompileInputs.cache
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\bin\Debug\net8.0\tpmodul4_1302220069.exe
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\bin\Debug\net8.0\tpmodul4_1302220069.deps.json
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\bin\Debug\net8.0\tpmodul4_1302220069.runtimeconfig.json
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\bin\Debug\net8.0\tpmodul4_1302220069.dll
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\bin\Debug\net8.0\tpmodul4_1302220069.pdb
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.dll
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\refint\tpmodul4_1302220069.dll
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.pdb
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\tpmodul4_1302220069.genruntimeconfig.cache
+D:\PraktikumKPL\tpmodul4_1302220069\tpmodul4_1302220069\obj\Debug\net8.0\ref\tpmodul4_1302220069.dll
